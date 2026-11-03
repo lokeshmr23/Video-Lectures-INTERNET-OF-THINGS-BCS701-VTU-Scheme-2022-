@@ -8,8 +8,8 @@
 | M1-L4 | Logical design of IoT-functional blocks | [Watch on YouTube](https://youtu.be/1ZBqbje9yao). |
 | M1-L5 | Logical design of IoT-communication models | [Watch on YouTube](https://youtu.be/PDn3sD7IXmM). |
 | M1-L6 | IoT enabling technologies| [Watch on YouTube](https://youtu.be/QHC5ZfMzjCA). |
-| M1-L7 | | [Watch on YouTube](). |
-| M1-L8 | | [Watch on YouTube](). |
+| M1-L7 | IoT levels and deployment templates| [Watch on YouTube](https://youtu.be/jPM2AxoQ4xw). |
+| M1-L8 | Module 1 revision: sensors and actuators comparison; quiz| [Watch on YouTube](https://youtu.be/I92BEh20Pd0). |
 
 ### Module 2: IoT and M2M; IoT Systems Management  (08 hours | CO2)
 **Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
