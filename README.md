@@ -7,7 +7,7 @@
 | M1-L3 | Physical Design of IoT | [Watch on YouTube](https://youtu.be/FVN8kJ87NDo). |
 | M1-L4 | Logical design of IoT-functional blocks | [Watch on YouTube](https://youtu.be/1ZBqbje9yao). |
 | M1-L5 | Logical design of IoT-communication models | [Watch on YouTube](https://youtu.be/PDn3sD7IXmM). |
-| M1-L6 | IoT enabling technologies| [Watch on YouTube](). |
+| M1-L6 | IoT enabling technologies| [Watch on YouTube](https://youtu.be/QHC5ZfMzjCA). |
 | M1-L7 | | [Watch on YouTube](). |
 | M1-L8 | | [Watch on YouTube](). |
 
