@@ -15,8 +15,8 @@
 
 | M2-L1 | Machine-to-machine (M2M): | [Watch on YouTube](https://youtu.be/Ev7F2-sAmdY) |
 | M2-L2 | Difference between IoT and M2M.| [Watch on YouTube](https://youtu.be/dhF1CZKkp6E) |
-| M2-L3 | Software defined networking (SDN) for IoT | [Watch on YouTube](). |
-| M2-L4 | Network function virtualization (NFV) for IoT | [Watch on YouTube](). |
+| M2-L3 | Software defined networking (SDN) for IoT | [Watch on YouTube](https://youtu.be/ePeUi7LUgpw). |
+| M2-L4 | Network function virtualization (NFV) for IoT | [Watch on YouTube](https://youtu.be/y6Lmg2ABvP4). |
 | M2-L5 | Need for IoT systems management | [Watch on YouTube](). |
 | M2-L6 | Network operator requirements| [Watch on YouTube](). |
 | M2-L7 | YANG and IoT systems management with NETCONF| [Watch on YouTube](). |
