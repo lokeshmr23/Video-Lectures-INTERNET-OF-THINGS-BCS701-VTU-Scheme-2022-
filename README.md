@@ -26,6 +26,8 @@
 
 ### Module 3: IoT Platforms Design Methodology and Python   (08 hours | CO3)
 
+| Lecture | Topic | Video |
+| --- | --- | --- |
 | M3-L1 | IoT platforms design methodology | [Watch on YouTube]() |
 | M3-L2 | Design methodology (continued)| [Watch on YouTube]() |
 | M3-L3 | Case study IoT system for weather monitoring.| [Watch on YouTube](). |
