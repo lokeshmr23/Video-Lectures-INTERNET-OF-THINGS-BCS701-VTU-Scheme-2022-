@@ -21,7 +21,7 @@
 | M2-L4 | Network function virtualization (NFV) for IoT | [Watch on YouTube](https://youtu.be/y6Lmg2ABvP4). |
 | M2-L5 | Need for IoT systems management | [Watch on YouTube](https://youtu.be/I3dJiRPClOs?si=DVizjxnPpSQBoe11). |
 | M2-L6 | Network operator requirements| [Watch on YouTube](https://youtu.be/NLeSGJFktLE?si=xq4k4v_YuSHmM1BQ). |
-| M2-L7 | YANG and IoT systems management with NETCONF| [Watch on YouTube](). |
+| M2-L7 | YANG and IoT systems management with NETCONF| [Watch on YouTube](https://youtu.be/zW0UeqLP7jM). |
 | M2-L8 | Module 2 revision and class test | [Watch on YouTube](). |
 
 ### Module 3: IoT Platforms Design Methodology and Python   (08 hours | CO3)
