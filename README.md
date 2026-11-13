@@ -12,7 +12,7 @@
 | M1-L8 | Module 1 revision: sensors and actuators comparison; quiz| [Watch on YouTube](https://youtu.be/I92BEh20Pd0). |
 
 ### Module 2: IoT and M2M; IoT Systems Management  (08 hours | CO2)
-
+| --- | --- | --- |
 | M2-L1 | Machine-to-machine (M2M): | [Watch on YouTube](https://youtu.be/Ev7F2-sAmdY) |
 | M2-L2 | Difference between IoT and M2M.| [Watch on YouTube](https://youtu.be/dhF1CZKkp6E) |
 | M2-L3 | Software defined networking (SDN) for IoT | [Watch on YouTube](https://youtu.be/ePeUi7LUgpw). |
