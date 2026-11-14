@@ -29,7 +29,7 @@
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M3-L1 | IoT platforms design methodology | [Watch on YouTube](https://youtu.be/bmxTFOYfpaU) |
-| M3-L2 | Design methodology (continued)| [Watch on YouTube]() |
+| M3-L2 | Design methodology (continued)| [Watch on YouTube](https://youtu.be/xG7G2pkBH1w) |
 | M3-L3 | Case study IoT system for weather monitoring.| [Watch on YouTube](). |
 | M3-L4 | Python for IoT | [Watch on YouTube](). |
 | M3-L5 | Python: control flow and functions | [Watch on YouTube](). |
