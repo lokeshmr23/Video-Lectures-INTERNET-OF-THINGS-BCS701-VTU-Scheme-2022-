@@ -41,12 +41,12 @@
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| M4-L1 | What is an IoT device | [Watch on YouTube](https://youtu.be/5_BEAWqSHw4) |
-| M4-L2 | Linux on Raspberry Pi| [Watch on YouTube]() |
-| M4-L3 | Raspberry Pi interfaces (continued) | [Watch on YouTube](https://youtu.be/ipFCAy2Hugo). |
-| M4-L4 | Programming Raspberry Pi with Python:controlling | [Watch on YouTube](https://youtu.be/ywGKTDwxT7A). |
-| M4-L5 | Programming Raspberry Pi with Python: interfacing  | [Watch on YouTube](https://youtu.be/ViWrW7qEUGY). |
-| M4-L6 | Case study: home automation| [Watch on YouTube](https://youtu.be/AMJ-yp4bOsQ). |
+| M4-L1 | What is an IoT device | [Watch on YouTube](https://youtu.be/7v3VHTSiFJY) |
+| M4-L2 | Linux on Raspberry Pi| [Watch on YouTube](https://youtu.be/ipFCAy2Hugo) |
+| M4-L3 | Raspberry Pi interfaces (continued) | [Watch on YouTube](https://youtu.be/ywGKTDwxT7A?si=jzHywvIYeGWZz6za). |
+| M4-L4 | Programming Raspberry Pi with Python:controlling | [Watch on YouTube](https://youtu.be/ViWrW7qEUGY?si=5snyrEzOZ-zXKi9Z). |
+| M4-L5 | Programming Raspberry Pi with Python: interfacing  | [Watch on YouTube](https://youtu.be/AMJ-yp4bOsQ?si=g4ci1BHHw-wfPg0y). |
+| M4-L6 | Case study: home automation| [Watch on YouTube](https://youtu.be/tkJMTDtI958?si=7ayzKhF3zsdF64Sk). |
 | M4-L7 | Case study: smart cities | [Watch on YouTube](https://youtu.be/f819iE8tvN0). |
 | M4-L8 | Case study: agriculture | [Watch on YouTube](https://youtu.be/HNt24gtDO4Y?si=V3V1iS16VkMDcpSc). |
 
