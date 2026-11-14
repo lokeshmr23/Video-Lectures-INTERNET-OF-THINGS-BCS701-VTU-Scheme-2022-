@@ -42,7 +42,7 @@
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M4-L1 | What is an IoT device | [Watch on YouTube](https://youtu.be/5_BEAWqSHw4) |
-| M4-L2 | Linux on Raspberry Pi| [Watch on YouTube]() |
+| M4-L2 | Linux on Raspberry Pi| [Watch on YouTube](https://youtu.be/GlfF4u_H6jE) |
 | M4-L3 | Raspberry Pi interfaces (continued) | [Watch on YouTube](). |
 | M4-L4 | Programming Raspberry Pi with Python:controlling | [Watch on YouTube](). |
 | M4-L5 | Programming Raspberry Pi with Python: interfacing  | [Watch on YouTube](). |
@@ -53,7 +53,7 @@
 ### Module 5: Data Analytics for IoT     (08 hours | CO5)
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| M5-L1 | Data analytics for IoT | [Watch on YouTube](https://youtu.be/5_BEAWqSHw4) |
+| M5-L1 | Data analytics for IoT | [Watch on YouTube]() |
 | M5-L2 | Apache Hadoop| [Watch on YouTube]() |
 | M5-L3 | Using Hadoop MapReduce for batch data analytics | [Watch on YouTube](). |
 | M5-L4 | MapReduce worked example on sensor/weather data | [Watch on YouTube](). |
