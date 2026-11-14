@@ -45,7 +45,7 @@
 | M4-L2 | Linux on Raspberry Pi| [Watch on YouTube](https://youtu.be/GlfF4u_H6jE) |
 | M4-L3 | Raspberry Pi interfaces (continued) | [Watch on YouTube](https://youtu.be/qa8sd24oMQc). |
 | M4-L4 | Programming Raspberry Pi with Python:controlling | [Watch on YouTube](https://youtu.be/qyxWFI0lONI). |
-| M4-L5 | Programming Raspberry Pi with Python: interfacing  | [Watch on YouTube](). |
+| M4-L5 | Programming Raspberry Pi with Python: interfacing  | [Watch on YouTube](https://youtu.be/z1FWXl01J-k). |
 | M4-L6 | Case study: home automation| [Watch on YouTube](). |
 | M4-L7 | Case study: smart cities | [Watch on YouTube](). |
 | M4-L8 | MCase study: agriculture | [Watch on YouTube](). |
