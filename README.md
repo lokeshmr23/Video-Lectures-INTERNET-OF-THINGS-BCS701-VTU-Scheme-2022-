@@ -34,7 +34,7 @@
 | M3-L4 | Python for IoT | [Watch on YouTube](https://youtu.be/BYce1o5qQBA). |
 | M3-L5 | Python: control flow and functions | [Watch on YouTube](https://youtu.be/hUiV8Drmfx4?si=SPLH0YblvOicBeRD). |
 | M3-L6 | Python: modules, packages and file handling| [Watch on YouTube](https://youtu.be/ekBe02vO41Y). |
-| M3-L7 | Python: date/time operations| [Watch on YouTube](). |
+| M3-L7 | Python: date/time operations| [Watch on YouTube](https://youtu.be/c8KmlllP9AE). |
 | M3-L8 | Module 3 revision: Python programs for IoT; class test. | [Watch on YouTube](). |
 
 ### Module 4: IoT Physical Devices, End Points and Case Studies    (08 hours | CO2 and CO3)
