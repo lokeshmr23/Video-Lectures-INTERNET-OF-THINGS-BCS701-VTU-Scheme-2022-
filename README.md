@@ -48,7 +48,7 @@
 | M4-L5 | Programming Raspberry Pi with Python: interfacing  | [Watch on YouTube](https://youtu.be/z1FWXl01J-k). |
 | M4-L6 | Case study: home automation| [Watch on YouTube](https://youtu.be/n7Jqrnlfmws). |
 | M4-L7 | Case study: smart cities | [Watch on YouTube](https://youtu.be/TuOlNSjTf9Q). |
-| M4-L8 | MCase study: agriculture | [Watch on YouTube](). |
+| M4-L8 | Case study: agriculture | [Watch on YouTube](https://youtu.be/HNt24gtDO4Y?si=V3V1iS16VkMDcpSc). |
 
 ### Module 5: Data Analytics for IoT     (08 hours | CO5)
 | Lecture | Topic | Video |
