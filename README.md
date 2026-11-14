@@ -38,7 +38,17 @@
 | M3-L8 | Module 3 revision: Python programs for IoT; class test. | [Watch on YouTube](https://youtu.be/GWd4TSkDQZ8). |
 
 ### Module 4: IoT Physical Devices, End Points and Case Studies    (08 hours | CO2 and CO3)
-**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
+| Lecture | Topic | Video |
+| --- | --- | --- |
+| M4-L1 | What is an IoT device | [Watch on YouTube](https://youtu.be/5_BEAWqSHw4) |
+| M4-L2 | Linux on Raspberry Pi| [Watch on YouTube]() |
+| M4-L3 | Raspberry Pi interfaces (continued) | [Watch on YouTube](). |
+| M4-L4 | Programming Raspberry Pi with Python:controlling | [Watch on YouTube](). |
+| M4-L5 | Programming Raspberry Pi with Python: interfacing  | [Watch on YouTube](). |
+| M4-L6 | Case study: home automation| [Watch on YouTube](). |
+| M4-L7 | Case study: smart cities | [Watch on YouTube](). |
+| M4-L8 | MCase study: agriculture | [Watch on YouTube](). |
 
 ### Module 5: Data Analytics for IoT     (08 hours | CO5)
 **Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
