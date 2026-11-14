@@ -42,7 +42,7 @@
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M4-L1 | What is an IoT device | [Watch on YouTube](https://youtu.be/5_BEAWqSHw4) |
-| M4-L2 | Linux on Raspberry Pi| [Watch on YouTube](https://youtu.be/GlfF4u_H6jE) |
+| M4-L2 | Linux on Raspberry Pi| [Watch on YouTube](https://youtu.be/ipFCAy2Hugo) |
 | M4-L3 | Raspberry Pi interfaces (continued) | [Watch on YouTube](https://youtu.be/qa8sd24oMQc). |
 | M4-L4 | Programming Raspberry Pi with Python:controlling | [Watch on YouTube](https://youtu.be/ywGKTDwxT7A). |
 | M4-L5 | Programming Raspberry Pi with Python: interfacing  | [Watch on YouTube](https://youtu.be/ViWrW7qEUGY). |
