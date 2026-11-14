@@ -51,7 +51,16 @@
 | M4-L8 | MCase study: agriculture | [Watch on YouTube](). |
 
 ### Module 5: Data Analytics for IoT     (08 hours | CO5)
-**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+| Lecture | Topic | Video |
+| --- | --- | --- |
+| M5-L1 | Data analytics for IoT | [Watch on YouTube](https://youtu.be/5_BEAWqSHw4) |
+| M5-L2 | Apache Hadoop| [Watch on YouTube]() |
+| M5-L3 | Using Hadoop MapReduce for batch data analytics | [Watch on YouTube](). |
+| M5-L4 | MapReduce worked example on sensor/weather data | [Watch on YouTube](). |
+| M5-L5 | Apache Oozie  | [Watch on YouTube](). |
+| M5-L6 | Apache Spark| [Watch on YouTube](). |
+| M5-L7 | Apache Storm | [Watch on YouTube](). |
+| M5-L8 | Using Apache Storm for real-time data analysis | [Watch on YouTube](). |
 
 ### Practical Component - Experiment-wise CO Mapping     (12 hours | All CO)
 **Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
