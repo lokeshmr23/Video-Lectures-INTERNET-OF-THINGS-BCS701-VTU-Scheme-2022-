@@ -1,4 +1,5 @@
 ### Module 1: Introduction to Internet of Things  (08 hours | CO1)
+### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
 | M1| Introduction to the Internet of Things| [Download link]() |
@@ -15,7 +16,7 @@
 | M1-L8 | Module 1 revision: sensors and actuators comparison; quiz| [Watch on YouTube](https://youtu.be/I92BEh20Pd0). |
 
 ### Module 2: IoT and M2M; IoT Systems Management  (08 hours | CO2)
-
+### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
 | M2| IoT and M2M; IoT Systems Management| [Download link]() |
@@ -32,7 +33,7 @@
 | M2-L8 | Module 2 revision and class test | [Watch on YouTube](https://youtu.be/jMI9QFR8gGU). |
 
 ### Module 3: IoT Platforms Design Methodology and Python   (08 hours | CO3)
-
+### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
 | M3| IoT Platforms Design Methodology and Python| [Download link]() |
@@ -49,7 +50,7 @@
 | M3-L8 | Module 3 revision: Python programs for IoT; class test. | [Watch on YouTube](https://youtu.be/GWd4TSkDQZ8). |
 
 ### Module 4: IoT Physical Devices, End Points and Case Studies    (08 hours | CO2 and CO3)
-
+### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
 | M4| IoT Physical Devices, End Points and Case Studies| [Download link]() |
@@ -66,6 +67,7 @@
 | M4-L8 | Case study: agriculture | [Watch on YouTube](https://youtu.be/HNt24gtDO4Y?si=V3V1iS16VkMDcpSc). |
 
 ### Module 5: Data Analytics for IoT     (08 hours | CO5)
+### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
 | M5| Data Analytics for IoT| [Download link]() |
@@ -99,9 +101,9 @@
 | E9 | Demonstrate weather station readings using Arduino.| [Watch on YouTube](https://youtu.be/zMC8TAYFpNU). |
 | E10 |Set up a UART protocol and pass a string through the protocol.| [Watch on YouTube](https://youtu.be/kubKmRc34gE). |
 | E11 |Water level depth detection system using ultrasonic sensor.| [Watch on YouTube](https://youtu.be/7s8dfufTmOw). |
-| E12 |Simulate interfacing with the keypad module to record keystrokes. | [Watch on YouTube](). |
-### Previous Year Solved Questions     (3 hours | All CO)
-**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+| E12 |Simulate interfacing with the keypad module to record keystrokes. | [Watch on YouTube](https://youtu.be/g0muVoiClGc). |
+ 
+
 
 More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES Internet of Things Semester VII | Course Code: BCS701 | Credits: 04
 
