@@ -53,7 +53,7 @@
 ### Module 5: Data Analytics for IoT     (08 hours | CO5)
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| M5-L1 | Data analytics for IoT | [Watch on YouTube]() |
+| M5-L1 | Data analytics for IoT | [Watch on YouTube](https://youtu.be/_iOtligzzkU) |
 | M5-L2 | Apache Hadoop| [Watch on YouTube]() |
 | M5-L3 | Using Hadoop MapReduce for batch data analytics | [Watch on YouTube](). |
 | M5-L4 | MapReduce worked example on sensor/weather data | [Watch on YouTube](). |
