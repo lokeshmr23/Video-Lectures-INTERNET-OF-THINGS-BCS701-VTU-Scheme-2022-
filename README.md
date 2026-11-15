@@ -74,7 +74,7 @@
 | E7 | Read the pH value of various substances such as milk, lime and water. | [Watch on YouTube](https://youtu.be/j3MrrR-3oUI). |
 | E8 | Detect gas leakage in the surrounding environment.| [Watch on YouTube](https://youtu.be/R0wCpQlyg9Q). |
 | E9 | Demonstrate weather station readings using Arduino.| [Watch on YouTube](https://youtu.be/zMC8TAYFpNU). |
-| E10 |Set up a UART protocol and pass a string through the protocol.| [Watch on YouTube](). |
+| E10 |Set up a UART protocol and pass a string through the protocol.| [Watch on YouTube](https://youtu.be/kubKmRc34gE). |
 | E11 |Water level depth detection system using ultrasonic sensor.| [Watch on YouTube](). |
 | E12 |Simulate interfacing with the keypad module to record keystrokes. | [Watch on YouTube](). |
 ### Previous Year Solved Questions     (3 hours | All CO)
