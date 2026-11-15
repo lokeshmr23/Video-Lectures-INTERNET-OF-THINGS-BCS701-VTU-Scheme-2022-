@@ -57,7 +57,7 @@
 | M5-L2 | Apache Hadoop| [Watch on YouTube](https://youtu.be/5xbHETP2gMI) |
 | M5-L3 | Using Hadoop MapReduce for batch data analytics | [Watch on YouTube](https://youtu.be/GLERjt1oU3Y). |
 | M5-L4 | MapReduce worked example on sensor/weather data | [Watch on YouTube](https://youtu.be/UQt1TSo1s_g). |
-| M5-L5 | Apache Oozie  | [Watch on YouTube](). |
+| M5-L5 | Apache Oozie  | [Watch on YouTube](https://youtu.be/Fgi1XNGPYp4). |
 | M5-L6 | Apache Spark| [Watch on YouTube](). |
 | M5-L7 | Apache Storm | [Watch on YouTube](). |
 | M5-L8 | Using Apache Storm for real-time data analysis | [Watch on YouTube](). |
