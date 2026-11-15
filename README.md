@@ -69,8 +69,8 @@
 | E2 | Interface a relay with Arduino board.| [Watch on YouTube](https://youtu.be/a7aeuwydNfU) |
 | E3 | Deploy an intrusion detection system using ultrasonic and sound sensors. | [Watch on YouTube](https://youtu.be/eTmBRBoZbUc). |
 | E4 | Control a DC motor with Arduino board. | [Watch on YouTube](https://youtu.be/GdV6ge1zVk0). |
-| E5 | Deploy a smart street light system using LDR sensor. | [Watch on YouTube](). |
-| E6 | Classify dry and wet waste with the moisture sensor (DHT22).| [Watch on YouTube](). |
+| E5 | Deploy a smart street light system using LDR sensor. | [Watch on YouTube](https://youtu.be/AyZZt-dlJuY). |
+| E6 | Classify dry and wet waste with the moisture sensor (DHT22).| [Watch on YouTube](https://youtu.be/k_qOGCSNya8). |
 | E7 | Read the pH value of various substances such as milk, lime and water. | [Watch on YouTube](). |
 | E8 | Detect gas leakage in the surrounding environment.| [Watch on YouTube](). |
 | E9 | Demonstrate weather station readings using Arduino.| [Watch on YouTube](). |
