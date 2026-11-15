@@ -2,7 +2,7 @@
 ### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
-| M1| Introduction to the Internet of Things| [Download link]() |
+| M1| Introduction to the Internet of Things| [Download link](https://doi.org/10.5281/zenodo.24246926) |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
