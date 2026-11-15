@@ -1,4 +1,7 @@
 ### Module 1: Introduction to Internet of Things  (08 hours | CO1)
+| Lecture | Topic | Notes |
+| --- | --- | --- |
+| M1| Introduction to the Internet of Things| [Download link]() |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
@@ -13,6 +16,10 @@
 
 ### Module 2: IoT and M2M; IoT Systems Management  (08 hours | CO2)
 
+| Lecture | Topic | Notes |
+| --- | --- | --- |
+| M2| IoT and M2M; IoT Systems Management| [Download link]() |
+
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M2-L1 | Machine-to-machine (M2M): | [Watch on YouTube](https://youtu.be/Ev7F2-sAmdY) |
@@ -25,6 +32,10 @@
 | M2-L8 | Module 2 revision and class test | [Watch on YouTube](https://youtu.be/jMI9QFR8gGU). |
 
 ### Module 3: IoT Platforms Design Methodology and Python   (08 hours | CO3)
+
+| Lecture | Topic | Notes |
+| --- | --- | --- |
+| M3| IoT Platforms Design Methodology and Python| [Download link]() |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
@@ -39,6 +50,10 @@
 
 ### Module 4: IoT Physical Devices, End Points and Case Studies    (08 hours | CO2 and CO3)
 
+| Lecture | Topic | Notes |
+| --- | --- | --- |
+| M4| IoT Physical Devices, End Points and Case Studies| [Download link]() |
+
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M4-L1 | What is an IoT device | [Watch on YouTube](https://youtu.be/7v3VHTSiFJY) |
@@ -51,6 +66,10 @@
 | M4-L8 | Case study: agriculture | [Watch on YouTube](https://youtu.be/HNt24gtDO4Y?si=V3V1iS16VkMDcpSc). |
 
 ### Module 5: Data Analytics for IoT     (08 hours | CO5)
+| Lecture | Topic | Notes |
+| --- | --- | --- |
+| M5| Data Analytics for IoT| [Download link]() |
+
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M5-L1 | Data analytics for IoT | [Watch on YouTube](https://youtu.be/_iOtligzzkU) |
@@ -63,6 +82,10 @@
 | M5-L8 | Using Apache Storm for real-time data analysis | [Watch on YouTube](https://youtu.be/M5VkaV9cfBI). |
 
 ### Practical Component - Experiment-wise CO Mapping     (12 hours | All CO)
+| Lecture | Topic | Laboratory Manual  |
+| --- | --- | --- |
+| L| Practical Component - Experiment-wise CO Mapping| [Download link]() |
+
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | E1 | Blink 5 LEDs back and forth | [Watch on YouTube](https://youtu.be/0Ot5VvkmoZg) |
