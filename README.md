@@ -59,7 +59,7 @@
 | M5-L4 | MapReduce worked example on sensor/weather data | [Watch on YouTube](https://youtu.be/UQt1TSo1s_g). |
 | M5-L5 | Apache Oozie  | [Watch on YouTube](https://youtu.be/Fgi1XNGPYp4). |
 | M5-L6 | Apache Spark| [Watch on YouTube](https://youtu.be/fogRHtAfQMo). |
-| M5-L7 | Apache Storm | [Watch on YouTube](). |
+| M5-L7 | Apache Storm | [Watch on YouTube](https://youtu.be/MO-56ARx3f0). |
 | M5-L8 | Using Apache Storm for real-time data analysis | [Watch on YouTube](). |
 
 ### Practical Component - Experiment-wise CO Mapping     (12 hours | All CO)
