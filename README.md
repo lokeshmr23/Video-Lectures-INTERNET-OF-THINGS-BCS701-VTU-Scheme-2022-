@@ -68,7 +68,7 @@
 | E1 | Blink 5 LEDs back and forth | [Watch on YouTube](https://youtu.be/0Ot5VvkmoZg) |
 | E2 | Interface a relay with Arduino board.| [Watch on YouTube](https://youtu.be/a7aeuwydNfU) |
 | E3 | Deploy an intrusion detection system using ultrasonic and sound sensors. | [Watch on YouTube](https://youtu.be/eTmBRBoZbUc). |
-| E4 | Control a DC motor with Arduino board. | [Watch on YouTube](). |
+| E4 | Control a DC motor with Arduino board. | [Watch on YouTube](https://youtu.be/GdV6ge1zVk0). |
 | E5 | Deploy a smart street light system using LDR sensor. | [Watch on YouTube](). |
 | E6 | Classify dry and wet waste with the moisture sensor (DHT22).| [Watch on YouTube](). |
 | E7 | Read the pH value of various substances such as milk, lime and water. | [Watch on YouTube](). |
