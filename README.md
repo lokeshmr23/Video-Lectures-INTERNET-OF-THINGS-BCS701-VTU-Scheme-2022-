@@ -63,8 +63,20 @@
 | M5-L8 | Using Apache Storm for real-time data analysis | [Watch on YouTube](). |
 
 ### Practical Component - Experiment-wise CO Mapping     (12 hours | All CO)
-**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
-
+| Lecture | Topic | Video |
+| --- | --- | --- |
+| E1 | Blink 5 LEDs back and forth | [Watch on YouTube](https://youtu.be/_iOtligzzkU) |
+| E2 | Interface a relay with Arduino board.| [Watch on YouTube](https://youtu.be/5xbHETP2gMI) |
+| E3 | Deploy an intrusion detection system using ultrasonic and sound sensors. | [Watch on YouTube](https://youtu.be/GLERjt1oU3Y). |
+| E4 | Control a DC motor with Arduino board. | [Watch on YouTube](https://youtu.be/UQt1TSo1s_g). |
+| E5 | Deploy a smart street light system using LDR sensor. | [Watch on YouTube](). |
+| E6 | Classify dry and wet waste with the moisture sensor (DHT22).| [Watch on YouTube](). |
+| E7 | Read the pH value of various substances such as milk, lime and water. | [Watch on YouTube](). |
+| E8 | Detect gas leakage in the surrounding environment.| [Watch on YouTube](). |
+| E9 | Demonstrate weather station readings using Arduino.| [Watch on YouTube](). |
+| E10 |Set up a UART protocol and pass a string through the protocol.| [Watch on YouTube](). |
+| E11 |Water level depth detection system using ultrasonic sensor.| [Watch on YouTube](). |
+| E12 |Simulate interfacing with the keypad module to record keystrokes. | [Watch on YouTube](). |
 ### Previous Year Solved Questions     (3 hours | All CO)
 **Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
 
