@@ -19,7 +19,7 @@
 ### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
-| M2| IoT and M2M; IoT Systems Management| [Download link]() |
+| M2| IoT and M2M; IoT Systems Management| [Download link](https://doi.org/10.5281/zenodo.24248607) |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
