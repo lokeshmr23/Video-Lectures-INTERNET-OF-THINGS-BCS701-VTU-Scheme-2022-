@@ -65,7 +65,7 @@
 ### Practical Component - Experiment-wise CO Mapping     (12 hours | All CO)
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| E1 | Blink 5 LEDs back and forth | [Watch on YouTube]() |
+| E1 | Blink 5 LEDs back and forth | [Watch on YouTube](https://youtu.be/0Ot5VvkmoZg) |
 | E2 | Interface a relay with Arduino board.| [Watch on YouTube]() |
 | E3 | Deploy an intrusion detection system using ultrasonic and sound sensors. | [Watch on YouTube](). |
 | E4 | Control a DC motor with Arduino board. | [Watch on YouTube](). |
