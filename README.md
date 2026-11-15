@@ -55,7 +55,7 @@
 | --- | --- | --- |
 | M5-L1 | Data analytics for IoT | [Watch on YouTube](https://youtu.be/_iOtligzzkU) |
 | M5-L2 | Apache Hadoop| [Watch on YouTube](https://youtu.be/5xbHETP2gMI) |
-| M5-L3 | Using Hadoop MapReduce for batch data analytics | [Watch on YouTube](). |
+| M5-L3 | Using Hadoop MapReduce for batch data analytics | [Watch on YouTube](https://youtu.be/GLERjt1oU3Y). |
 | M5-L4 | MapReduce worked example on sensor/weather data | [Watch on YouTube](). |
 | M5-L5 | Apache Oozie  | [Watch on YouTube](). |
 | M5-L6 | Apache Spark| [Watch on YouTube](). |
