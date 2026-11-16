@@ -36,7 +36,7 @@
 ### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
-| M3| IoT Platforms Design Methodology and Python| [Download link]() |
+| M3| IoT Platforms Design Methodology and Python| [Download link](https://doi.org/10.5281/zenodo.20409778) |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
