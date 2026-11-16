@@ -53,7 +53,7 @@
 ### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
-| M4| IoT Physical Devices, End Points and Case Studies| [Download link]() |
+| M4| IoT Physical Devices, End Points and Case Studies| [Download link](https://doi.org/10.5281/zenodo.24269475) |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
