@@ -40,7 +40,7 @@
 
 | Lecture | Topic | Classroom Presentation |
 | --- | --- | --- |
-| M4| IoT Platforms Design Methodology and Python| [Download link](https://drive.google.com/file/d/1k1T3oEGT20owB5sbAabxq_BN0Y3sEnpL/view?usp=drive_link) |
+| M3| IoT Platforms Design Methodology and Python| [Download link](https://drive.google.com/file/d/1k1T3oEGT20owB5sbAabxq_BN0Y3sEnpL/view?usp=drive_link) |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
