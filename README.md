@@ -70,7 +70,7 @@
 ### Previous Year Solved Questions 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
-| M5| Data Analytics for IoT| [Download link]() |
+| M5| Data Analytics for IoT| [Download link](https://doi.org/10.5281/zenodo.24271292) |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
