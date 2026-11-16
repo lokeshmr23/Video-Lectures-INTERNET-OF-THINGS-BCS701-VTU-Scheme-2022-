@@ -55,6 +55,10 @@
 | --- | --- | --- |
 | M4| IoT Physical Devices, End Points and Case Studies| [Download link](https://doi.org/10.5281/zenodo.24269475) |
 
+| Lecture | Topic | Classroom Presentation |
+| --- | --- | --- |
+| M4| IoT Physical Devices, End Points and Case Studies| [Download link](https://drive.google.com/file/d/1R9sA7-atBMu_MnyrJkjhwgrC5fgDtsfP/view?usp=drive_link) |
+
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M4-L1 | What is an IoT device | [Watch on YouTube](https://youtu.be/7v3VHTSiFJY) |
@@ -71,6 +75,10 @@
 | Lecture | Topic | Notes |
 | --- | --- | --- |
 | M5| Data Analytics for IoT| [Download link](https://doi.org/10.5281/zenodo.24271292) |
+
+| Lecture | Topic | Classroom Presentation |
+| --- | --- | --- |
+| M5| Data Analytics for IoT| [Download link](https://drive.google.com/file/d/1PhdEeeJ8R6tWepGF5bp1ft8gTYwTwzoV/view?usp=drive_link) |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
