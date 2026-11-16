@@ -38,6 +38,10 @@
 | --- | --- | --- |
 | M3| IoT Platforms Design Methodology and Python| [Download link](https://doi.org/10.5281/zenodo.20409778) |
 
+| Lecture | Topic | Classroom Presentation |
+| --- | --- | --- |
+| M4| IoT Platforms Design Methodology and Python| [Download link](https://drive.google.com/file/d/1k1T3oEGT20owB5sbAabxq_BN0Y3sEnpL/view?usp=drive_link) |
+
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M3-L1 | IoT platforms design methodology | [Watch on YouTube](https://youtu.be/xG7G2pkBH1w) |
