@@ -4,6 +4,10 @@
 | --- | --- | --- |
 | M1| Introduction to the Internet of Things| [Download link](https://doi.org/10.5281/zenodo.24246926) |
 
+| Lecture | Topic | Classroom Presentation |
+| --- | --- | --- |
+| M1| Module 1: Introduction to Internet of Things| [Download link](https://drive.google.com/file/d/1q23TK2dzajZs1dK4h8ASCVExb1SO6Hu2/view?usp=drive_link) |
+
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M1-L1 | Introduction to the Internet of Things| [Watch on YouTube](https://youtu.be/kyJ0ngD8t0U?si=CqgmyPnns8MrQ1h1) |
