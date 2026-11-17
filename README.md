@@ -21,6 +21,10 @@
 | --- | --- | --- |
 | M2| IoT and M2M; IoT Systems Management| [Download link](https://doi.org/10.5281/zenodo.24248607) |
 
+| Lecture | Topic | Classroom Presentation |
+| --- | --- | --- |
+| M2| IoT and M2M; IoT Systems Management| [Download link](https://drive.google.com/file/d/1-BXCiIBhwr971kopA3Z6Sbe-q4JCwBcl/view?usp=drive_link) |
+
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M2-L1 | Machine-to-machine (M2M): | [Watch on YouTube](https://youtu.be/Ev7F2-sAmdY) |
