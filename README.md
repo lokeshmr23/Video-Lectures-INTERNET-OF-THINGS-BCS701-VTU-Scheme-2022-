@@ -57,10 +57,10 @@ Jun-July26|[Download link](https://drive.google.com/file/d/1WhVOTHWxhU5-W9IK419P
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| M3-L1 | IoT platforms design methodology | [Watch on YouTube](https://youtu.be/xG7G2pkBH1w) |
+| M3-L1 | IoT platforms design methodology | [Watch on YouTube](https://youtu.be/bmxTFOYfpaU) |
 | M3-L2 | Design methodology (continued)| [Watch on YouTube](https://youtu.be/xG7G2pkBH1w) |
 | M3-L3 | Case study IoT system for weather monitoring.| [Watch on YouTube](https://youtu.be/ZqetBQXKEEk). |
-| M3-L4 | Python for IoT | [Watch on YouTube](https://youtu.be/hUiV8Drmfx4). |
+| M3-L4 | Python for IoT | [Watch on YouTube](https://youtu.be/BYce1o5qQBA). |
 | M3-L5 | Python: control flow and functions | [Watch on YouTube](https://youtu.be/hUiV8Drmfx4). |
 | M3-L6 | Python: modules, packages and file handling| [Watch on YouTube](https://youtu.be/ekBe02vO41Y). |
 | M3-L7 | Python: date/time operations| [Watch on YouTube](https://youtu.be/c8KmlllP9AE). |
@@ -111,7 +111,7 @@ Jun-July26|[Download link](https://drive.google.com/file/d/1WhVOTHWxhU5-W9IK419P
 ### Practical Component - Experiment-wise CO Mapping     (12 hours | All CO)
 | Lecture | Topic | Laboratory Manual  |
 | --- | --- | --- |
-| L| Practical Component - Experiment-wise CO Mapping| [Download link]() |
+| L| Practical Component - Experiment-wise CO Mapping| [Download link](https://drive.google.com/file/d/15_vpznbUfBznpqIoASv60UNIpUaxYP1N/view?usp=drive_link) |
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
