@@ -1,164 +1,93 @@
-### Module 1: Introduction to Internet of Things  (08 hours | CO1)
-### Previous Year Solved Questions 
-| Solved Answer | Dec25-Jan26,Jun-July26 | Qp and Answer |
+# BCS701 — Internet of Things (VTU Scheme 2022)
+
+Promotional site for the free module-wise video lecture series, notes, solved
+papers and the 12-experiment lab.
+
+Third site in the same family as BCS702 (Parallel Computing) and BCS703
+(Cryptography & Network Security) — identical design system and behaviour.
+
+## Files
+
+| File | Purpose |
+| --- | --- |
+| `index.html` | The whole site — one self-contained file (inline CSS + JS) |
+| `dr_lokesh_professor_new.png` | Portrait used in the hero and the teacher section |
+| `render.yaml` | Render Blueprint (static site + cache/security headers) |
+| `robots.txt` | Search-engine crawl rules |
+
+## Run locally
+
+```bash
+python3 -m http.server 8000
+# open http://localhost:8000
+```
+
+Open it through a server, not by double-clicking: YouTube refuses to embed on
+`file://` pages.
+
+## What is on the page
+
+| Section | Content |
+| --- | --- |
+| Hero | free series badge, 5 modules / 40 lectures / 12 lab experiments / CO1–CO5 |
+| Why students use it | 3 value cards |
+| The series | course facts, featured player, search, watched progress |
+| Module 1–5 accordions | 40 lectures + per-module notes, slides and solved papers |
+| **Practical component** | laboratory manual button + 12 lab experiments (E1–E12), each with a video |
+| Study planner | days left + hours/day → day-by-day schedule |
+| Exam guide, teacher, resources, FAQ, final CTA | as in the other two sites |
+
+## Where the content lives
+
+At the top of the `<script>` block:
+
+```js
+const MODULES = [{ id, title, hours, co,
+                   notes:  "https://doi.org/10.5281/zenodo.…",   // module notes
+                   slides: "https://drive.google.com/file/d/…",  // classroom deck
+                   pyq:    [{ label:"Dec 25 – Jan 26", url:"…" }], // solved papers
+                   lectures: [{ code, topic, url }, …] }, …];
+const LAB = [{ code:"E1", topic:"Blink 5 LEDs back and forth", url:"…" }, …];
+const PLANNER = { multiplier: 3, perModuleBaseHours: [8,8,8,8,8] };
+```
+
+- **Add a lecture** → add a `{code, topic, url}` entry to that module.
+- **Add notes / slides / a solved paper** → fill `notes`, `slides` or push into
+  `pyq`. The pills appear automatically; leave them out and nothing renders.
+- **Add an experiment** → append to `LAB`. The grid re-flows by itself.
+- **Change planner maths** → `PLANNER.multiplier` (3 = watch + notes + practise).
+
+## Current data
+
+- 5 modules · **40 lectures** (8 per module, M1-L1 → M5-L8)
+- **12 lab experiments** (E1–E12), all with videos
+- Module CO mapping: M1 → CO1, M2 → CO2, M3 → CO3, M4 → **CO2 & CO3**, M5 → CO5
+- 5 module notes (Zenodo DOIs) + 5 classroom presentations (Google Drive)
+- 2 solved previous-year papers, both on Module 1: Dec 25 – Jan 26, Jun – Jul 26
+- 8 hours per module · 12-hour practical · Scheme 2022 · 4 credits
+- Laboratory manual (experiment-wise CO mapping) → Google Drive PDF, linked as a
+  button at the top of the Practical component section
+
+## Deploy to Render
+
+Same as the other two: **static site**, Root *(empty)*, Build *(empty)*,
+**Publish Directory `.`**.
+
+`render.yaml` is a Blueprint file, not a publish directory.
+
+## Placeholders to fill
+
+| Placeholder | Where | What to supply |
 | --- | --- | --- |
-| M1| BCS701 Internet of Things| Dec25-Jan26 [Download link](https://drive.google.com/file/d/10WRArfvFsvceFZv-NMyB0mDi29LO9J_0/view?usp=drive_link) 
-Jun-July26|[Download link](https://drive.google.com/file/d/1WhVOTHWxhU5-W9IK419PSkHCRfmn4NYQ/view?usp=drive_link) |
+| `[Add institution]` | teacher section, footer | college / university name |
+| canonical / `og:url` | `<head>` | the real deployed URL — currently `https://video-lectures-internet-of-things.onrender.com/` as a **guess** |
 
-| Lecture | Topic | Notes |
-| --- | --- | --- |
-| M1| Introduction to the Internet of Things| [Download link](https://doi.org/10.5281/zenodo.24246926) |
+## Data notes
 
-| Lecture | Topic | Classroom Presentation |
-| --- | --- | --- |
-| M1| Module 1: Introduction to Internet of Things| [Download link](https://drive.google.com/file/d/1q23TK2dzajZs1dK4h8ASCVExb1SO6Hu2/view?usp=drive_link) |
-
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M1-L1 | Introduction to the Internet of Things| [Watch on YouTube](https://youtu.be/kyJ0ngD8t0U?si=CqgmyPnns8MrQ1h1) |
-| M1-L2 | Physical Design of IoT: Things in IoT| [Watch on YouTube](https://youtu.be/r801ALu8hNk?si=c350qMUXM7viFHlL) |
-| M1-L3 | Physical Design of IoT | [Watch on YouTube](https://youtu.be/FVN8kJ87NDo). |
-| M1-L4 | Logical design of IoT-functional blocks | [Watch on YouTube](https://youtu.be/1ZBqbje9yao). |
-| M1-L5 | Logical design of IoT-communication models | [Watch on YouTube](https://youtu.be/PDn3sD7IXmM). |
-| M1-L6 | IoT enabling technologies| [Watch on YouTube](https://youtu.be/QHC5ZfMzjCA). |
-| M1-L7 | IoT levels and deployment templates| [Watch on YouTube](https://youtu.be/jPM2AxoQ4xw). |
-| M1-L8 | Module 1 revision: sensors and actuators comparison; quiz| [Watch on YouTube](https://youtu.be/I92BEh20Pd0). |
-
-### Module 2: IoT and M2M; IoT Systems Management  (08 hours | CO2)
-### Previous Year Solved Questions 
-| Lecture | Topic | Notes |
-| --- | --- | --- |
-| M2| IoT and M2M; IoT Systems Management| [Download link](https://doi.org/10.5281/zenodo.24248607) |
-
-| Lecture | Topic | Classroom Presentation |
-| --- | --- | --- |
-| M2| IoT and M2M; IoT Systems Management| [Download link](https://drive.google.com/file/d/1-BXCiIBhwr971kopA3Z6Sbe-q4JCwBcl/view?usp=drive_link) |
-
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M2-L1 | Machine-to-machine (M2M): | [Watch on YouTube](https://youtu.be/Ev7F2-sAmdY) |
-| M2-L2 | Difference between IoT and M2M.| [Watch on YouTube](https://youtu.be/dhF1CZKkp6E) |
-| M2-L3 | Software defined networking (SDN) for IoT | [Watch on YouTube](https://youtu.be/ePeUi7LUgpw). |
-| M2-L4 | Network function virtualization (NFV) for IoT | [Watch on YouTube](https://youtu.be/y6Lmg2ABvP4). |
-| M2-L5 | Need for IoT systems management | [Watch on YouTube](https://youtu.be/I3dJiRPClOs?si=DVizjxnPpSQBoe11). |
-| M2-L6 | Network operator requirements| [Watch on YouTube](https://youtu.be/NLeSGJFktLE?si=xq4k4v_YuSHmM1BQ). |
-| M2-L7 | YANG and IoT systems management with NETCONF| [Watch on YouTube](https://youtu.be/zW0UeqLP7jM). |
-| M2-L8 | Module 2 revision and class test | [Watch on YouTube](https://youtu.be/jMI9QFR8gGU). |
-
-### Module 3: IoT Platforms Design Methodology and Python   (08 hours | CO3)
-### Previous Year Solved Questions 
-| Lecture | Topic | Notes |
-| --- | --- | --- |
-| M3| IoT Platforms Design Methodology and Python| [Download link](https://doi.org/10.5281/zenodo.20409778) |
-
-| Lecture | Topic | Classroom Presentation |
-| --- | --- | --- |
-| M3| IoT Platforms Design Methodology and Python| [Download link](https://drive.google.com/file/d/1k1T3oEGT20owB5sbAabxq_BN0Y3sEnpL/view?usp=drive_link) |
-
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M3-L1 | IoT platforms design methodology | [Watch on YouTube](https://youtu.be/bmxTFOYfpaU) |
-| M3-L2 | Design methodology (continued)| [Watch on YouTube](https://youtu.be/xG7G2pkBH1w) |
-| M3-L3 | Case study IoT system for weather monitoring.| [Watch on YouTube](https://youtu.be/ZqetBQXKEEk). |
-| M3-L4 | Python for IoT | [Watch on YouTube](https://youtu.be/BYce1o5qQBA). |
-| M3-L5 | Python: control flow and functions | [Watch on YouTube](https://youtu.be/hUiV8Drmfx4). |
-| M3-L6 | Python: modules, packages and file handling| [Watch on YouTube](https://youtu.be/ekBe02vO41Y). |
-| M3-L7 | Python: date/time operations| [Watch on YouTube](https://youtu.be/c8KmlllP9AE). |
-| M3-L8 | Module 3 revision: Python programs for IoT; class test. | [Watch on YouTube](https://youtu.be/GWd4TSkDQZ8). |
-
-### Module 4: IoT Physical Devices, End Points and Case Studies    (08 hours | CO2 and CO3)
-### Previous Year Solved Questions 
-| Lecture | Topic | Notes |
-| --- | --- | --- |
-| M4| IoT Physical Devices, End Points and Case Studies| [Download link](https://doi.org/10.5281/zenodo.24269475) |
-
-| Lecture | Topic | Classroom Presentation |
-| --- | --- | --- |
-| M4| IoT Physical Devices, End Points and Case Studies| [Download link](https://drive.google.com/file/d/1R9sA7-atBMu_MnyrJkjhwgrC5fgDtsfP/view?usp=drive_link) |
-
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M4-L1 | What is an IoT device | [Watch on YouTube](https://youtu.be/7v3VHTSiFJY) |
-| M4-L2 | Linux on Raspberry Pi| [Watch on YouTube](https://youtu.be/_t5-WB2UIvA) |
-| M4-L3 | Raspberry Pi interfaces (continued) | [Watch on YouTube](https://youtu.be/ywGKTDwxT7A). |
-| M4-L4 | Programming Raspberry Pi with Python:controlling | [Watch on YouTube](https://youtu.be/ViWrW7qEUGY). |
-| M4-L5 | Programming Raspberry Pi with Python: interfacing  | [Watch on YouTube](https://youtu.be/AMJ-yp4bOsQ). |
-| M4-L6 | Case study: home automation| [Watch on YouTube](https://youtu.be/tkJMTDtI958?si=7ayzKhF3zsdF64Sk). |
-| M4-L7 | Case study: smart cities | [Watch on YouTube](https://youtu.be/f819iE8tvN0). |
-| M4-L8 | Case study: agriculture | [Watch on YouTube](https://youtu.be/HNt24gtDO4Y?si=V3V1iS16VkMDcpSc). |
-
-### Module 5: Data Analytics for IoT     (08 hours | CO5)
-### Previous Year Solved Questions 
-| Lecture | Topic | Notes |
-| --- | --- | --- |
-| M5| Data Analytics for IoT| [Download link](https://doi.org/10.5281/zenodo.24271292) |
-
-| Lecture | Topic | Classroom Presentation |
-| --- | --- | --- |
-| M5| Data Analytics for IoT| [Download link](https://drive.google.com/file/d/1PhdEeeJ8R6tWepGF5bp1ft8gTYwTwzoV/view?usp=drive_link) |
-
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M5-L1 | Data analytics for IoT | [Watch on YouTube](https://youtu.be/_iOtligzzkU) |
-| M5-L2 | Apache Hadoop| [Watch on YouTube](https://youtu.be/5xbHETP2gMI) |
-| M5-L3 | Using Hadoop MapReduce for batch data analytics | [Watch on YouTube](https://youtu.be/GLERjt1oU3Y). |
-| M5-L4 | MapReduce worked example on sensor/weather data | [Watch on YouTube](https://youtu.be/UQt1TSo1s_g). |
-| M5-L5 | Apache Oozie  | [Watch on YouTube](https://youtu.be/Fgi1XNGPYp4). |
-| M5-L6 | Apache Spark| [Watch on YouTube](https://youtu.be/fogRHtAfQMo). |
-| M5-L7 | Apache Storm | [Watch on YouTube](https://youtu.be/MO-56ARx3f0). |
-| M5-L8 | Using Apache Storm for real-time data analysis | [Watch on YouTube](https://youtu.be/M5VkaV9cfBI). |
-
-### Practical Component - Experiment-wise CO Mapping     (12 hours | All CO)
-| Lecture | Topic | Laboratory Manual  |
-| --- | --- | --- |
-| L| Practical Component - Experiment-wise CO Mapping| [Download link](https://drive.google.com/file/d/15_vpznbUfBznpqIoASv60UNIpUaxYP1N/view?usp=drive_link) |
-
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| E1 | Blink 5 LEDs back and forth | [Watch on YouTube](https://youtu.be/0Ot5VvkmoZg) |
-| E2 | Interface a relay with Arduino board.| [Watch on YouTube](https://youtu.be/a7aeuwydNfU) |
-| E3 | Deploy an intrusion detection system using ultrasonic and sound sensors. | [Watch on YouTube](https://youtu.be/eTmBRBoZbUc). |
-| E4 | Control a DC motor with Arduino board. | [Watch on YouTube](https://youtu.be/GdV6ge1zVk0). |
-| E5 | Deploy a smart street light system using LDR sensor. | [Watch on YouTube](https://youtu.be/AyZZt-dlJuY). |
-| E6 | Classify dry and wet waste with the moisture sensor (DHT22).| [Watch on YouTube](https://youtu.be/k_qOGCSNya8). |
-| E7 | Read the pH value of various substances such as milk, lime and water. | [Watch on YouTube](https://youtu.be/j3MrrR-3oUI). |
-| E8 | Detect gas leakage in the surrounding environment.| [Watch on YouTube](https://youtu.be/R0wCpQlyg9Q). |
-| E9 | Demonstrate weather station readings using Arduino.| [Watch on YouTube](https://youtu.be/zMC8TAYFpNU). |
-| E10 |Set up a UART protocol and pass a string through the protocol.| [Watch on YouTube](https://youtu.be/kubKmRc34gE). |
-| E11 |Water level depth detection system using ultrasonic sensor.| [Watch on YouTube](https://youtu.be/7s8dfufTmOw). |
-| E12 |Simulate interfacing with the keypad module to record keystrokes. | [Watch on YouTube](https://youtu.be/g0muVoiClGc). |
- 
-
-
-More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES Internet of Things Semester VII | Course Code: BCS701 | Credits: 04
-
-🚀 How to Use This Repository
-
-Pick a module from the index above and watch the lectures in session order.
-
-Practise the tutorial problems and try the same constructions.
-
-Check the mapped CO and Bloom level of each topic to focus your exam preparation.
-
-Revisit the module revision and quiz session before each IA test and the SEE.
-
-🤝 Contributing
-
-Found an error or want to suggest a topic or problem? Open an Issue or submit a Pull Request.
-
-🔗 Connect
-▶️ YouTube: [https://www.youtube.com/@Dr.LokeshMR]
-
-💼 LinkedIn: [https://www.linkedin.com/in/lokesh-m-r-b6880b169/]
-
-📸 Instagram: [https://www.instagram.com/lokeshmrmysore/]
-
-📢 Telegram: [https://web.telegram.org/a/#-1003930242341]
-
-💬 WhatsApp Channel: [https://whatsapp.com/channel/0029VbE13OS7dmeY7Rsgf12o]
-
-⚠️ Disclaimer
-
-These materials are for educational use and follow the VTU Scheme 2022 BCS701 syllabus. Always refer to the official VTU syllabus and your instructor's guidance for the latest updates.
-
-⭐ If this helped you, please star the repository and share it with your classmates!
+- Every lecture has its own video: 40 lectures, 40 unique video ids. Module 3
+  was corrected on request — M3-L1 now points at `bmxTFOYfpaU` and M3-L4 at
+  `BYce1o5qQBA`, so nothing shares a recording any more.
+- Tracking parameters (`?si=…`) were stripped from every URL; the video ids are
+  unchanged.
+- Titles were lightly normalised (capitalisation, trailing punctuation) but the
+  wording is the author's.
