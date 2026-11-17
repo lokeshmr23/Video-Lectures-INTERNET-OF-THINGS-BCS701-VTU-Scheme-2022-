@@ -2,8 +2,7 @@
 ### Previous Year Solved Questions 
 | Solved Answer | Dec25-Jan26,Jun-July26 | Qp and Answer |
 | --- | --- | --- |
-| M1| BCS701 Internet of Things| Dec25-Jan26 [Download link](https://drive.google.com/file/d/10WRArfvFsvceFZv-NMyB0mDi29LO9J_0/view?usp=drive_link) 
-                                 Jun-July26|[Download link](https://drive.google.com/file/d/1WhVOTHWxhU5-W9IK419PSkHCRfmn4NYQ/view?usp=drive_link) |
+| M1| BCS701 Internet of Things| Dec25-Jan26 [Download link](https://drive.google.com/file/d/10WRArfvFsvceFZv-NMyB0mDi29LO9J_0/view?usp=drive_link) | Jun-July26|[Download link](https://drive.google.com/file/d/1WhVOTHWxhU5-W9IK419PSkHCRfmn4NYQ/view?usp=drive_link) |
 
 | Lecture | Topic | Notes |
 | --- | --- | --- |
